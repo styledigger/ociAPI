@@ -1,0 +1,17 @@
+{
+"availabilityDomain": "GxAT:PHX-AD-3",
+"compartmentId": "ocid1.compartment.oc1..aaaaaaaaymztafvorbatzvgosdfsujarypdn3nvsj73qklegjzf4fppzbtaq",
+"displayName": "AliterCI",
+"shape": "VM.Standard2.1",
+"createVnicDetails": {
+  "displayName": "AliterIC VNIC",
+  "subnetId": "ocid1.subnet.oc1.phx.aaaaaaaajxawesmnxqp3bh7b2yjh4di5hcmd5ztw32dz7pvpihz7toiun4xa"
+  },
+"metadata": {
+  "ssh_authorized_keys" : "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDIZCVhxk8hcS9xtT4Wf6E4SZsIlLGNTwIKvawKW3S2PBGYmicrpzCaHzmeUS1ipbmC/8XNwpjVACr2QhV5nnH1+Z5/NloCFCrtPimzr1aXAxRGgfYycGztiUetde0HuN/VQ+ockODa4vKVkSE565X28xpADW4jN/w6PuoAjRo10wFBfRW/Kz1VXYC/ZdxounTZbIHEo8Ne6lIuWBgSLwUyF1NtkxenwsTv0wd4BSujgI7/ZCitY9cULDsWmDugb4NIPeelXBnLFFTQyLl5nEboECPO2dnuV1uehRWESdwrdj0ndvvx8ZA6HT9/A5vGZ7eVHTlkn5XROUI1Od3KwWNP"
+  },
+"sourceDetails": {
+  "sourceType": "image",
+  "imageId": "ocid1.image.oc1.phx.aaaaaaaau5cadziy5ef777zqtv6ummayq2vtbez25lt67jaobiz3gmp3zbxq"
+  }
+}
